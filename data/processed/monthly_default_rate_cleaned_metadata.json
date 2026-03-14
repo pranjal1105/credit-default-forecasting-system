@@ -1,0 +1,12 @@
+{
+    "date_generated": "2026-03-03 21:10:04",
+    "date_range": {
+        "start": "2007-06-01",
+        "end": "2016-12-01"
+    },
+    "total_months": 115,
+    "total_loans": 1321847,
+    "total_defaults": 219107,
+    "average_default_rate": 0.1652065361202068,
+    "cleaning_rule": "Removed last 24 months due to right-censoring bias."
+}
